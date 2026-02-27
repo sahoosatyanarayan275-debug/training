@@ -1,5 +1,5 @@
 #wap are two no.from keybord enter your choice 1.odd 2.sub 3.mult
-print("enter two enter")
+print("enter two number")
 no1=int(input())
 no2=int(input())
 print("enter your choice \n1.odd\n2.sub\n3.mult")
